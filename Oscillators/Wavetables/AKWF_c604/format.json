@@ -1,0 +1,6 @@
+{
+    "formatInfo": {
+        "numSamplesPerSingleCycle": 600,
+        "numSingleCycles": 32
+    }
+}
